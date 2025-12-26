@@ -1,0 +1,5 @@
+streamlit
+tensorflow-cpu
+librosa
+numpy
+scikit-learn
